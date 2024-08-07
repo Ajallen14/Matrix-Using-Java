@@ -35,7 +35,7 @@ class Matrix {
         if (matrixC == null) {
             System.out.println("Error multiplying.\n");
         } else {
-            System.out.println("Matrix C: \n");
+            System.out.println("Resultant Matrix After Multiplication \n");
             obj.displayMatrix(matrixC, r1, c2);
         }
     }
